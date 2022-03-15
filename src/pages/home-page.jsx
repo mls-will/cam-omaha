@@ -8,9 +8,6 @@ export const HomePage = () => {
     <Box>
       <Header />
       <h1>Home Page</h1>
-      <p>
-        <Link to="/about">About</Link> section boi.
-      </p>
     </Box>
   );
 };
