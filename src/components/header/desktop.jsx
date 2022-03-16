@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import {
   Breadcrumb,
   BreadcrumbItem,
   BreadcrumbLink,
-  Flex,
   GridItem,
   IconButton,
 } from "@chakra-ui/react";
@@ -12,16 +11,12 @@ import { FaTwitter } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 export const DesktopNav = () => {
-  const [currentPage, setCurrentPage] = useState("black");
-
-  useEffect(() => {});
-
   const handleOnClick = () => {};
   return (
     <>
       <GridItem colStart="1" colSpan={1} ml={10}>
         <Link to="/">
-          <img src="./cam-logo.jpeg" alt="Logo" height="200px" />
+          <img src="./cam-logo.jpeg" alt="Logo" height="100px" />
         </Link>
       </GridItem>
       <GridItem m={3}>
@@ -47,7 +42,6 @@ export const DesktopNav = () => {
             <BreadcrumbLink
               as={Link}
               to="/about"
-              color={currentPage}
               onClick={() => handleOnClick()}
             >
               About

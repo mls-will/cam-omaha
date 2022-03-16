@@ -1,13 +1,19 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { Box } from "@chakra-ui/react";
 import { Header } from "../components/header";
+import { HeroBanner } from "../components/hero-banner";
 
 export const HomePage = () => {
+  const props = {
+    img: "test",
+    text: "A Partnership With Staying Power",
+    links: true,
+  };
+
   return (
     <Box>
       <Header />
-      <h1>Home Page</h1>
+      <HeroBanner {...props} />
     </Box>
   );
 };
