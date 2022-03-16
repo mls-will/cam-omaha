@@ -7,6 +7,8 @@ import {
   AboutPage,
   ServicesPage,
   ClientLinksPage,
+  TestimonialsPage,
+  CommitmentsPage,
 } from "./pages/index";
 import "./index.css";
 
@@ -19,6 +21,8 @@ ReactDOM.render(
           <Route path="/about" element={<AboutPage />} />
           <Route path="/services" element={<ServicesPage />} />
           <Route path="/client-links" element={<ClientLinksPage />} />
+          <Route path="/commitments" element={<CommitmentsPage />} />
+          <Route path="/testimonials" element={<TestimonialsPage />} />
         </Routes>
       </BrowserRouter>
     </ChakraProvider>
