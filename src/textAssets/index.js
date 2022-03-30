@@ -2,10 +2,8 @@ export const textAssets = {
   homePage: {
     header1: "A Partnership With Staying Power",
     paragraph1:
-      "Creative Association Management provides a complete range of administrative, communication, public relations, meeting planning, program development, and management support services to clients including associations, trade organizations, and other non-profit groups.",
+      "Creative Association Management provides a complete range of administrative, communication, public relations, meeting planning, program development, and management support services to clients including associations, trade organizations, and other non-profit groups. Our goals align with our clients' goals — with an emphasis on results. If, at the end of the year, we have even one more member, and one more dollar than we started the year with, chances are, it was a successful year. But many of our clients have also been recognized with awards for achievements in membership, community service, and public relations — among other measures.",
     header2: "A Quality Choice For Building A Stronger Organization",
-    paragraph2:
-      "Our goals align with our clients' goals — with an emphasis on results. If, at the end of the year, we have even one more member, and one more dollar than we started the year with, chances are, it was a successful year. But many of our clients have also been recognized with awards for achievements in membership, community service, and public relations — among other measures.",
   },
   aboutPage: {
     paragraph1:
