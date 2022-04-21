@@ -27,7 +27,6 @@ export const HomePage = () => {
       <HeroBanner {...pageProps.mainBanner} />
       <TextBlock text={textAssets.homePage.paragraph1} />
       <HeroBanner {...pageProps.secondBanner} />
-      <TestimonialsWidget />
     </Box>
   );
 };
