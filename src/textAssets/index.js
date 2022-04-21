@@ -6,14 +6,14 @@ export const textAssets = {
     header2: "A Quality Choice For Building A Stronger Organization",
   },
   aboutPage: {
+    header1:
+      "Customer service and satisfaction are top priorities at Creative Association Management",
     paragraph1:
       "Creative Association Management was founded in 1997 and is owned and operated by Joe Pittman, who serves as the company's president and chief executive officer.",
     paragraph2:
       "Joe has more than 20 years of experience in communications, public relations, advertising nad management, including 11 years at Mutual of Omaha, where he served as First Vice President of Corporate Commuications. He is a member of the American Society of Association Executives (ASAE) and the Omaha chapter of the Public Relations Society of America (PRSA).",
     paragraph3:
-      "Customer service and satisfaction are top priorities at Creative Association Management. In the ever-changing business environment, CAM believes that ongoing performance reviews are key to maintaining and building a strong business relationship. Working together to define performance expectations — and then meeting regularly so that your association's leadership can provide open and honest feedback on our performance in meeting those objectives — will help ensure your association is receiving the service and support you deserve.",
-    paragraph4:
-      "More and more, associations are finding that retaining an association management company is the most effective option for their needs. The advantages of using an association management company like Creative Association Management are enjoyed by forward-thinking business, trade, service, and professional associations and societies nationwide.",
+      "In the ever-changing business environment, CAM believes that ongoing performance reviews are key to maintaining and building a strong business relationship. Working together to define performance expectations — and then meeting regularly so that your association's leadership can provide open and honest feedback on our performance in meeting those objectives — will help ensure your association is receiving the service and support you deserve. More and more, associations are finding that retaining an association management company is the most effective option for their needs. The advantages of using an association management company like Creative Association Management are enjoyed by forward-thinking business, trade, service, and professional associations and societies nationwide.",
   },
   servicesPage: {
     benefitsIntro:
